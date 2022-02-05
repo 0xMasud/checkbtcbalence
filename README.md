@@ -1,2 +1,2 @@
 # checkbtcbalence
-Simple outdated bitcoin balace checking python script ! 
+Simple outdated bitcoin balance checking python script ! 
